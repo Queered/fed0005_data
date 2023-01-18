@@ -1,0 +1,13 @@
+==================================================
+Source          : Discord
+Identifier      : 1051644237885739040
+Username        : fed#0005
+Phone           : +13154005629
+E-Mail Address  : seigegithub@gmail.com
+Locale          : en-US
+Nitro           : Nitro Boost
+Badges          : None
+Billing         : PayPal
+Token           : MTA1MTY0NDIzNzg4NTczOTA0MA.G-t-g4.MCCQCvLiG7ZzxeLm5OCzc-bYvKfWbluJ-OnGws
+==================================================
+

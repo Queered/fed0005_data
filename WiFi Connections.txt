@@ -1,0 +1,4 @@
+<================[WiFi connections]>================>
+
+
+SpectrumSetup-93 | a4:97:33:6d:ff:92

@@ -1,0 +1,13 @@
+<================[ Network Data ]>================>
+
+
+💸 Zcash: ❌
+🚀 Armory: ❌
+📀 Bytecoin: ❌
+💵 Jaxx: ❌
+💎 Exodus: ❌
+📉 Ethereum: ❌
+🔨 Electrum: ❌
+🕹️ AtomicWallet: ❌
+💹 Guarda: ❌
+⚡ Coinomi: ❌

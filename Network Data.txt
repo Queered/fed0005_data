@@ -1,0 +1,6 @@
+IP Address: 74.79.192.49
+Hostname: cpe-74-79-192-49.twcny.res.rr.com
+City: Bernhards Bay
+Region: New York
+Country: US
+Timezone: America/New_York

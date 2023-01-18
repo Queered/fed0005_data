@@ -1,0 +1,7 @@
+<================[Executable Info]>================>
+
+
+☠️ Execution path: C:\Users\lukel\OneDrive\Desktop\imgay.exe
+🅿️ Debug port: 9229
+🔢 PID: 3172
+🔢 PPID: 18136

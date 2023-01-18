@@ -1,0 +1,26 @@
+Found keywords: gmail.com
+
+
+==================================================
+URL          : https://accounts.google.com/signin/v2/challenge/pwd
+Web Browser  : Microsoft Edge
+User Name    : XYROHATESFORTNITE@GMAIL.COM
+Password     : lukeduke413$
+Filename     : C:\Users\lukel\AppData\Local\Microsoft\Edge\User Data\Default\
+==================================================
+
+==================================================
+URL          : https://discord.com/login
+Web Browser  : Microsoft Edge
+User Name    : XYROHATESFORTNITE@GMAIL.COM
+Password     : starusnak413$
+Filename     : C:\Users\lukel\AppData\Local\Microsoft\Edge\User Data\Default\
+==================================================
+
+==================================================
+URL          : https://starpets.gg/
+Web Browser  : Microsoft Edge
+User Name    : lucidplayzyt29@gmail.com
+Password     : Fc7hf-yqrq.E-25
+Filename     : C:\Users\lukel\AppData\Local\Microsoft\Edge\User Data\Default\
+==================================================

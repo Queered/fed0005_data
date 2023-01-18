@@ -1,0 +1,56 @@
+Found keywords: amazon
+
+
+==================================================
+BROWSER   : Microsoft Edge
+ID        : 8
+NAME      : Booking.com
+URL       : https://www.booking.com/index.html?aid=1980379&label=edge2020
+GUID      : d7885cb2-6533-4769-8636-581c1b31994d
+ADDED AT  : 13312961902924776
+==================================================
+
+==================================================
+BROWSER   : Microsoft Edge
+ID        : 7
+NAME      : Express VPN
+URL       : http://js.redirect.hp.com/jumpstation?bd=expressvpn&c=*&locale=en_us&pf=*&s=*&tp=edge
+GUID      : 28abd8e2-0606-4dd4-934e-e705d0ea8766
+ADDED AT  : 13312961902924701
+==================================================
+
+==================================================
+BROWSER   : Microsoft Edge
+ID        : 6
+NAME      : Amazon.com – Online Shopping
+URL       : http://js.redirect.hp.com/jumpstation?bd=amazon&c=*&locale=en_us&pf=*&s=*&tp=edge
+GUID      : 636b7d93-2d87-4b6d-9fe3-c3ba34cc64ab
+ADDED AT  : 13312961902924589
+==================================================
+
+==================================================
+BROWSER   : Microsoft Edge
+ID        : 5
+NAME      : LastPass password manager
+URL       : http://js.redirect.hp.com/jumpstation?bd=lastpass&c=*&locale=*&pf=*&s=*&tp=edge
+GUID      : daf51652-cecc-42d1-a7e1-666d5b3c3fa7
+ADDED AT  : 13312961902923145
+==================================================
+
+==================================================
+BROWSER   : Microsoft Edge
+ID        : 19
+NAME      : Amazon.com – Online Shopping
+URL       : http://www.amazon.com/gp/bit/amazonbookmark.html?tag=hp2-brobookmark-us-20&partner=HP
+GUID      : 1f46af7a-84bf-41cd-9450-c3154007c34d
+ADDED AT  : 13283044885372618
+==================================================
+
+==================================================
+BROWSER   : Microsoft Edge
+ID        : 20
+NAME      : Booking.com
+URL       : http://secure.rezserver.com/sdk/v1/LinkFwd?refid=9005&destination=booking&refclickid=webslice1819
+GUID      : cb00bf1e-4e60-44b0-806f-22ce2a1aa1ec
+ADDED AT  : 13283044885372618
+==================================================

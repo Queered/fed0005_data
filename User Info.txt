@@ -1,0 +1,20 @@
+<================[   User Info   ]>================>
+
+
+🖥️ CPU(s): Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+⚡ RAM: 8 GB
+🛑 Version: Windows 10 Home
+⏳ Uptime: 690 minutes (11.49 hours)
+📂 Host directory: C:\Users\lukel
+🆔 Host name: HPPavilionGamingLaptop
+🆔 PC Name: silent
+👻 Type: Windows_NT
+🏹 Arch: x64
+📢 Release: 10.0.22623
+🌌 AppData Path: C:\Users\lukel\AppData\Roaming
+🪐 Temp Path: C:\Users\lukel\AppData\Local\Temp
+🌐 User Domain: HPPAVILIONGAMIN
+💨 System Drive: C:
+💾 Processors: 8
+💾 Processor Identifier: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+💾 Processor Architecture: AMD64
