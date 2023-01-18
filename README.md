@@ -1,4 +1,4 @@
-reason of leaking: This kid is a retarded skid that pastes open-sourced Lua scripts with his little skid mate "prime" that helped us to log him 💯
+reason of leaking: This kid is a retarded skid that pastes open-sourced Lua scripts with his little skid mate "prime" that helped us to backdoor him 💯
 
 NOTE: *GET REAL HOMIES*
 
